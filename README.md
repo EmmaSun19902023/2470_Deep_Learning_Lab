@@ -1,6 +1,6 @@
 # Deep Learning: Personality Type Detection on Social Media Text
 
-This project focuses on developing and comparing three deep learning models— a transformer-based model, a multi-level perceptron (MLP) baseline, and a convolutional neural network (CNN)—to predict personality types based on the most recent 50 texts posted by individuals on social media.
+This project focuses on developing and comparing three deep learning models— a multi-level perceptron (MLP) as baseline, a transformer-based model, and a convolutional neural network (CNN)—to predict personality types based on the most recent 50 texts posted by individuals on social media.
 
 The text data underwent rigorous preprocessing, including text cleaning and tokenization, to prepare it for model training. Three distinct models were developed and evaluated using a diverse set of metrics: accuracy, F1-score, precision, recall, and log loss.
 
